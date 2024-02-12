@@ -1,4 +1,3 @@
-script.js
 // script.js
 
 // Function to handle button click events
