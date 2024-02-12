@@ -54,6 +54,7 @@ function displayCat() {
     catImage.onload = function() {
         imageContainer.appendChild(catImage);
     };
+    console.log("console.log")
 }
 
 // Function to display the cat-heart.gif
